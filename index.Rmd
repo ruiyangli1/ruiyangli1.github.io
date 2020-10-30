@@ -1,0 +1,19 @@
+---
+title: "Welcome!"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Ruiyang's website
+
+This website is for homework 4 for P8105. 
+
+Please feel free to click around to know more about me and see my work!
+
+<img src="image/welcome.jpg" style="width:35%">
+
+## Link to page within the site
+
+[About me](about.html)

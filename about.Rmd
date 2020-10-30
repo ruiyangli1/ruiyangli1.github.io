@@ -1,0 +1,59 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+This page gives my academic and professional experience. 
+
+<img src="image/hello.gif" style="width:35%">
+
+## Education 
+
+Columbia University
+
+* Doctor of Philosophy, Biostatistics. Expected May 2025
+
+Columbia University
+
+* Master of Science, Biostatistics. May 2020
+
+University of Rochester
+
+* Bachelor of Science, Applied Mathematics. Bachelor of Arts, Financial Economics. May 2018
+* Minor in Statistics
+
+## Experience
+
+Columbia University
+
+* Research Assistant, May 2019 – Present
+* Teaching Assistant – Clinical Trial Methodology, Fall 2020
+* Teaching Assistant – Introduction to Randomized Clinical Trials, Fall 2019
+
+University of Rochester
+
+* Teaching Assistant – Linear Algebra with Differential Equations, September 2016 – May 2018
+
+## Projects
+
+Longitudinal Data Analysis on Alcohol Dependence
+
+* Performed exploratory and longitudinal data analysis to examine the intervention effectiveness in reducing alcohol dependence.
+
+Modeling Variation of Cancer Mortality Rate in the United States
+
+* Built a regression model that predicts cancer mortality in the US. 
+* Aspects addressed included data cleaning, exploratory analysis (descriptive/visualization), variables pre-selection/restructure based on practical importance, model selection and diagnostics, outliers, missing values, and model predictive capability. 
+
+Relationship between Students’ Writing Class Grades and Visits to the Writing Center?
+
+* Conducted regression analysis to examine relationship between students’ writing class grades and their visits to the writing center, taking into consideration the potential effect among different majors.
+
+Critique of Sandy and Duncan – Does Private Education Necessarily Increase Earnings?
+
+* Conducted regression analysis to examine the validity of Sandy and Duncan’s paper on the positive effect of private education on individual’s earnings. 
+* Briefly summarized the paper’s methodology & results; observed omitted variable bias, and conducted a new model to further analyze the impact of the bias. 
+
