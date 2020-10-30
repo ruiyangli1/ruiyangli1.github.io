@@ -14,6 +14,25 @@ Please feel free to click around to know more about me and see my work!
 
 <img src="image/welcome.jpg" style="width:35%">
 
+## Brief introduction
+
+### Website content
+
+There are two main sections in this website. One is the "About me" page, which gives my academic and professional experience. The other is the "Dashboard" page, which includes three distinct plot types (e.g. scatterplots, box plots and bar plots) using the NY NOAA dataset. 
+
+### More on NY NOAA dataset
+
+This original dataset was acquired from all New York state weather stations from January 1, 1981 through December 31, 2010. It includes information on Weather station, date of observation, precipitation (mm), snowfall (mm), snow depth (mm), maximum temperature (degrees C) and minimum temperature (degrees C). As the dataset is large, I deceided to take a random sample of size 1,000 from the complete dataset to ensure a reasonable product.
+
+Specifically, I am looking at: 
+
+* a scatter plot of minimum temperature vs. maximum temperature
+* a box plot of maximum temperature for each month
+* a bar plot showing the total number of observations for each of the weather stations
+
+
 ## Link to page within the site
 
 [About me](about.html)
+
+[Dashboard](dashboard.html)
